@@ -6,12 +6,12 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/smanaspratap?style=for-the-badge&logo=github&color=0d1117&labelColor=1f6feb)](https://github.com/smanaspratap)
+[![GitHub followers](https://img.shields.io/github/followers/manaspratap2003?style=for-the-badge&logo=github&color=0d1117&labelColor=1f6feb)](https://github.com/manaspratap2003)
 [![Portfolio](https://img.shields.io/badge/Portfolio-smanaspratap.github.io-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smanaspratap.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-pratap-singh-3b3a29210/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manaspratapsingh.dev@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=smanaspratap&label=Profile%20Views&color=58a6ff&style=flat-square" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=manaspratap2003&label=Profile%20Views&color=58a6ff&style=flat-square" alt="profile views"/>
 
 </div>
 
@@ -81,14 +81,14 @@ public class ManasPratapSingh {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=smanaspratap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=percentile" height="165" alt="stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smanaspratap&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" alt="streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=manaspratap2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=percentile" height="165" alt="stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manaspratap2003&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" alt="streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smanaspratap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="top langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manaspratap2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="top langs"/>
 
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=smanaspratap&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manaspratap2003&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/>
 
 ---
 
@@ -237,7 +237,7 @@ Layered backend with automated deployment pipeline.
 
 ### 💬 Let's Connect!
 
-[![GitHub](https://img.shields.io/badge/GitHub-smanaspratap-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smanaspratap)
+[![GitHub](https://img.shields.io/badge/GitHub-manaspratap2003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manaspratap2003)
 [![Portfolio](https://img.shields.io/badge/Portfolio-smanaspratap.github.io-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smanaspratap.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manas--pratap--singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-pratap-singh-3b3a29210/)
 [![Email](https://img.shields.io/badge/Email-manaspratapsingh.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manaspratapsingh.dev@gmail.com)
