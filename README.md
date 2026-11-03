@@ -7,7 +7,7 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/manaspratap2003?style=for-the-badge&logo=github&color=0d1117&labelColor=1f6feb)](https://github.com/manaspratap2003)
-[![Portfolio](https://img.shields.io/badge/Portfolio-smanaspratap.github.io-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smanaspratap.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-manaspratap2003.github.io-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://manaspratap2003.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-pratap-singh-3b3a29210/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manaspratapsingh.dev@gmail.com)
 
@@ -41,7 +41,7 @@ public class ManasPratapSingh {
 - 🔭 Currently sharpening skills as a **Java Full Stack Trainee** at **BridgeLabz**, Chennai
 - 🧠 Passionate about **Generative AI**, **RAG architectures**, and **scalable backend design**
 - 🌱 Exploring **LangChain**, **FastAPI**, **Docker**, and **CI/CD pipelines**
-- 🌐 Check out my portfolio → **[smanaspratap.github.io](https://smanaspratap.github.io)**
+- 🌐 Check out my portfolio → **[manaspratap2003.github.io](https://manaspratap2003.github.io)**
 - 💡 Fun fact: Built a QR-based library system that cut book search time by **70%** during my ISRN internship
 
 ---
@@ -238,7 +238,7 @@ Layered backend with automated deployment pipeline.
 ### 💬 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-manaspratap2003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manaspratap2003)
-[![Portfolio](https://img.shields.io/badge/Portfolio-smanaspratap.github.io-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smanaspratap.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-manaspratap2003.github.io-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://manaspratap2003.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manas--pratap--singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-pratap-singh-3b3a29210/)
 [![Email](https://img.shields.io/badge/Email-manaspratapsingh.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manaspratapsingh.dev@gmail.com)
 
